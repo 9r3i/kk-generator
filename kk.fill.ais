@@ -1,0 +1,127 @@
+
+
+
+tool out "===============[ HEADER ]==============="
+
+image text blank01.jpg "No.__NOMOR_KK__" fonts/ocr-a-ext-regular.ttf 0 78 1380 280 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__KEPALA_KELUARGA__" fonts/arialnarrowbold.ttf 0 36 1010 350 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__ALAMAT__" fonts/arialnarrow.ttf 0 36 1010 398 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__RT__/__RW__" fonts/arialnarrow.ttf 0 36 1010 446 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__KODEPOS__" fonts/arialnarrow.ttf 0 36 1010 494 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__DESA_KELURAHAN__" fonts/arialnarrow.ttf 0 36 2990 350 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__KECAMATAN__" fonts/arialnarrow.ttf 0 36 2990 398 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__KABUPATEN_KOTA__" fonts/arialnarrow.ttf 0 36 2990 446 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__PROVINSI__" fonts/arialnarrow.ttf 0 36 2990 494 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+
+
+tool out "=======[ FILE ASSETS SIGNATURE AND QRCODE ]======="
+
+image brush blank01.jpg __QRCODE__ 3350 2380
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg __SIGN__ 1920 2380
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+
+
+tool out "===============[ FOOTER ]==============="
+
+image text blank01.jpg "__TANGGAL_KELUAR__" fonts/arialnarrow.ttf 0 36 618 2103 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "CATATAN SIPIL __KABUPATEN_KOTA__" fonts/arialnarrow.ttf 0 36 3070 2150 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__KADISDUKCAPIL__" fonts/arialnarrow.ttf 0 36 2950 2650 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "NIP. __NIP__" fonts/arialnarrow.ttf 0 36 3100 2710 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__KEPALA_KELUARGA__" fonts/arialnarrow.ttf 0 36 1750 2650 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+
+
+tool out "===============[ LINE INPUT ]=============="
+
+tool out Filling Line __LINE_NUMBER__...
+
+image text blank01.jpg "__NAMA__" fonts/arialnarrow.ttf 0 32 195 __LINE_UP__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__NIK__" fonts/arialnarrow.ttf 0 32 915 __LINE_UP__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__JENIS_KELAMIN__" fonts/arialnarrow.ttf 0 32 1255 __LINE_UP__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__TEMPAT_LAHIR__" fonts/arialnarrow.ttf 0 32 1505 __LINE_UP__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__TANGGAL_LAHIR__" fonts/arialnarrow.ttf 0 32 2110 __LINE_UP__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__AGAMA__" fonts/arialnarrow.ttf 0 32 2315 __LINE_UP__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__PENDIDIKAN__" fonts/arialnarrow.ttf 0 32 2600 __LINE_UP__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__JENIS_PEKERJAAN__" fonts/arialnarrow.ttf 0 32 3060 __LINE_UP__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__GOLONGAN_DARAH__" fonts/arialnarrow.ttf 0 32 3685 __LINE_UP__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__STATUS_PERKAWINAN__" fonts/arialnarrow.ttf 0 32 195 __LINE_DOWN__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__TANGGAL_PERKAWINAN__" fonts/arialnarrow.ttf 0 32 715 __LINE_DOWN__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__STATUS_HUBUNGAN_KELUARGA__" fonts/arialnarrow.ttf 0 32 930 __LINE_DOWN__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__KEWARGANEGARAAN__" fonts/arialnarrow.ttf 0 32 1365 __LINE_DOWN__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__NO_PASPOR__" fonts/arialnarrow.ttf 0 32 1685 __LINE_DOWN__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__NO_KITAP__" fonts/arialnarrow.ttf 0 32 2050 __LINE_DOWN__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__NAMA_AYAH__" fonts/arialnarrow.ttf 0 32 2415 __LINE_DOWN__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "__NAMA_IBU__" fonts/arialnarrow.ttf 0 32 3165 __LINE_DOWN__ 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+
+
+tool out "===============[ REPORT AND OUTPUT ]==============="
+
+tool report
+tool phpin rename blank01.jpg kk.auto.jpg
+
+
+

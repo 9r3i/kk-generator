@@ -1,0 +1,533 @@
+
+
+
+tool out "===============[ garuda emblem ]==============="
+
+image brush images/blank00.jpg images/gig300.png 300 300
+tool phpin rename images/blank00-brushed.jpg blank01.jpg
+
+image text blank01.jpg "REPUBLIK INDONESIA" fonts/arialnarrowbold.ttf 0 32 120 494 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+
+
+tool out "===============[ header title ]==============="
+
+image text blank01.jpg "KARTU KELUARGA" fonts/arialbold.ttf 0 88 1430 180 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "No." "fonts/ocr-a-ext-regular.ttf" 0 78 1380 280 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+
+
+tool out "===============[ header left ]==============="
+
+image text blank01.jpg "Nama Kepala Keluarga" fonts/arialnarrow.ttf 0 36 530 350 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Alamat" fonts/arialnarrow.ttf 0 36 530 398 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "RT/RW" fonts/arialnarrow.ttf 0 36 530 446 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Kode Pos" fonts/arialnarrow.ttf 0 36 530 494 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg ":" fonts/arialnarrow.ttf 0 36 980 350 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg ":" fonts/arialnarrow.ttf 0 36 980 398 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg ":" fonts/arialnarrow.ttf 0 36 980 446 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg ":" fonts/arialnarrow.ttf 0 36 980 494 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+
+
+tool out "===============[ header right ]==============="
+
+image text blank01.jpg "Desa/Kelurahan" fonts/arialnarrow.ttf 0 36 2610 350 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Kecamatan" fonts/arialnarrow.ttf 0 36 2610 398 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Kabupaten/Kota" fonts/arialnarrow.ttf 0 36 2610 446 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Provinsi" fonts/arialnarrow.ttf 0 36 2610 494 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg ":" fonts/arialnarrow.ttf 0 36 2960 350 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg ":" fonts/arialnarrow.ttf 0 36 2960 398 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg ":" fonts/arialnarrow.ttf 0 36 2960 446 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg ":" fonts/arialnarrow.ttf 0 36 2960 494 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+
+
+tool out "===============[ grey lining ]==============="
+
+image brush blank01.jpg images/line.3400x54b.jpg 1800 648
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3400x54b.jpg 1800 1373
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3400x54b.jpg 2200 648
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3400x54b.jpg 2200 1373
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+
+
+tool out "===============[ horizontal lines table 1 ]==============="
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 520
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 620
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 675
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 730
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 785
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 840
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 895
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 950
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1005
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1060
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1115
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1170
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1225
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+
+
+tool out "===============[ horizontal lines table 2 ]==============="
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1245
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1345
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1400
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1455
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1510
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1565
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1620
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1675
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1730
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1785
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1840
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1895
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3800x3.jpg 2000 1950
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.730x3.jpg 2035 1295
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.1500x3.jpg 3150 1295
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+
+
+tool out "===============[ vertical lines table 1 ]==============="
+
+image brush blank01.jpg images/line.3x705.jpg 100 872
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 180 872
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 900 872
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 1240 872
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 1490 872
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 2095 872
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 2300 872
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 2585 872
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 3045 872
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 3675 872
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 3900 872
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+
+
+tool out "===============[ vertical lines table 2 ]==============="
+
+image brush blank01.jpg images/line.3x705.jpg 100 1597
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 180 1597
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 700 1597
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 915 1597
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 1350 1597
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 1670 1597
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 2400 1597
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x655.jpg 2035 1622
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x655.jpg 3150 1622
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x705.jpg 3900 1597
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+
+
+tool out "===============[ numbering table 1 ]==============="
+
+image text blank01.jpg "1" fonts/arialnarrow.ttf 0 32 127 720 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "2" fonts/arialnarrow.ttf 0 32 127 775 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "3" fonts/arialnarrow.ttf 0 32 127 830 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "4" fonts/arialnarrow.ttf 0 32 127 885 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "5" fonts/arialnarrow.ttf 0 32 127 940 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "6" fonts/arialnarrow.ttf 0 32 127 995 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "7" fonts/arialnarrow.ttf 0 32 127 1050 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "8" fonts/arialnarrow.ttf 0 32 127 1105 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "9" fonts/arialnarrow.ttf 0 32 127 1160 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "10" fonts/arialnarrow.ttf 0 32 115 1215 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+
+
+tool out "===============[ numbering table 2 ]==============="
+
+image text blank01.jpg "1" fonts/arialnarrow.ttf 0 32 127 1445 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "2" fonts/arialnarrow.ttf 0 32 127 1500 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "3" fonts/arialnarrow.ttf 0 32 127 1555 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "4" fonts/arialnarrow.ttf 0 32 127 1610 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "5" fonts/arialnarrow.ttf 0 32 127 1665 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "6" fonts/arialnarrow.ttf 0 32 127 1720 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "7" fonts/arialnarrow.ttf 0 32 127 1775 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "8" fonts/arialnarrow.ttf 0 32 127 1830 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "9" fonts/arialnarrow.ttf 0 32 127 1885 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "10" fonts/arialnarrow.ttf 0 32 115 1940 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+
+
+tool out "===============[ headering name table 1 ]==============="
+
+image text blank01.jpg "No" fonts/arialnarrow.ttf 0 32 115 586 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Nama Lengkap" fonts/arialnarrow.ttf 0 32 420 586 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "NIK" fonts/arialnarrow.ttf 0 32 1040 586 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Jenis" fonts/arialnarrow.ttf 0 32 1327 565 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Kelamin" fonts/arialnarrow.ttf 0 32 1308 608 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Tempat Lahir" fonts/arialnarrow.ttf 0 32 1700 586 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Tanggal" fonts/arialnarrow.ttf 0 32 2140 565 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Lahir" fonts/arialnarrow.ttf 0 32 2165 608 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Agama" fonts/arialnarrow.ttf 0 32 2390 586 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Pendidikan" fonts/arialnarrow.ttf 0 32 2740 586 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Jenis Pekerjaan" fonts/arialnarrow.ttf 0 32 3250 586 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Golongan" fonts/arialnarrow.ttf 0 32 3715 565 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Darah" fonts/arialnarrow.ttf 0 32 3745 608 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+
+
+tool out "===============[ headering number table 1 ]==============="
+
+image text blank01.jpg "(1)" fonts/arialnarrow.ttf 0 32 520 660 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(2)" fonts/arialnarrow.ttf 0 32 1050 660 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(3)" fonts/arialnarrow.ttf 0 32 1350 660 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(4)" fonts/arialnarrow.ttf 0 32 1785 660 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(5)" fonts/arialnarrow.ttf 0 32 2185 660 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(6)" fonts/arialnarrow.ttf 0 32 2420 660 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(7)" fonts/arialnarrow.ttf 0 32 2800 660 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(8)" fonts/arialnarrow.ttf 0 32 3360 660 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(9)" fonts/arialnarrow.ttf 0 32 3770 660 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+
+
+tool out "===============[ headering name table 2 ]==============="
+
+image text blank01.jpg "No" fonts/arialnarrow.ttf 0 32 115 1311 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Status" fonts/arialnarrow.ttf 0 32 400 1290 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Perkawinan" fonts/arialnarrow.ttf 0 32 360 1333 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Tanggal" fonts/arialnarrow.ttf 0 32 740 1290 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Perkawinan" fonts/arialnarrow.ttf 0 32 715 1333 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Status Hubungan" fonts/arialnarrow.ttf 0 32 1000 1290 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Dalam Keluarga" fonts/arialnarrow.ttf 0 32 1010 1333 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Kewarganegaraan" fonts/arialnarrow.ttf 0 32 1365 1311 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Dokumen Imigrasi" fonts/arialnarrow.ttf 0 32 1900 1285 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "No. Paspor" fonts/arialnarrow.ttf 0 32 1760 1336 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "No. KITAP" fonts/arialnarrow.ttf 0 32 2130 1336 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Nama Orang Tua" fonts/arialnarrow.ttf 0 32 3020 1285 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Ayah" fonts/arialnarrow.ttf 0 32 2720 1336 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Ibu" fonts/arialnarrow.ttf 0 32 3490 1336 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+
+
+tool out "===============[ headering number table 2 ]==============="
+
+image text blank01.jpg "(10)" fonts/arialnarrow.ttf 0 32 420 1385 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(11)" fonts/arialnarrow.ttf 0 32 775 1385 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(12)" fonts/arialnarrow.ttf 0 32 1105 1385 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(13)" fonts/arialnarrow.ttf 0 32 1475 1385 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(14)" fonts/arialnarrow.ttf 0 32 1820 1385 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(15)" fonts/arialnarrow.ttf 0 32 2180 1385 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(16)" fonts/arialnarrow.ttf 0 32 2730 1385 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "(17)" fonts/arialnarrow.ttf 0 32 3490 1385 0 0 0 
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+
+
+tool out "===============[ footer brush ]==============="
+
+image brush blank01.jpg images/line.3x64.jpg 600 2085
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.3x64.jpg 840 2085
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.240x3.jpg 720 2053
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.240x3.jpg 720 2117
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.820x3.jpg 3360 2660
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+image brush blank01.jpg images/line.465x3.jpg 1962 2660
+tool phpin rename blank01-brushed.jpg blank01.jpg
+
+
+
+tool out "===============[ footer text ]==============="
+
+image text blank01.jpg "Dikeluarkan Tanggal :" fonts/arialnarrow.ttf 0 36 150 2100 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "KEPALA KELUARGA" fonts/arialnarrow.ttf 0 36 1770 2100 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "KEPALA DINAS KEPENDUDUKAN DAN" fonts/arialnarrow.ttf 0 36 3000 2100 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "CATATAN SIPIL " fonts/arialnarrow.ttf 0 36 3070 2150 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "NIP. " fonts/arialnarrow.ttf 0 36 3100 2710 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Tanda Tangan/Cap Jempol" fonts/arialnarrow.ttf 0 36 1730 2710 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+image text blank01.jpg "Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE), BSSN." fonts/arialnarrow.ttf 0 36 150 2810 0 0 0
+tool phpin rename blank01-text-4000x3000.jpg blank01.jpg
+
+
+
+tool out "===============[ report ]==============="
+
+tool report
+
+
+
+
+
+
+
+
+
